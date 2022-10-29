@@ -197,7 +197,7 @@ http://wanted610.s3-website.ap-northeast-2.amazonaws.com/
 
 > ## 미구현 내용
 
-- 예시
+- 사용자 목록 페이지의 필터링 기능과, 사용자 목록 페이지에서 추가적인 userSetting API 요청으로 필요한 정보를 정제해서 보여주는 기능, 유저 수정 및 삭제 기능
 
 > ## Git
 
