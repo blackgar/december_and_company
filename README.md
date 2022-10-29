@@ -270,7 +270,7 @@ http://wanted610.s3-website.ap-northeast-2.amazonaws.com/
 
 ### 박진성
 
-- 도움이 되지 못해 죄송합니다.
+- 
 
 ### 신이재
 
